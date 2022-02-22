@@ -1,4 +1,3 @@
-# Udacity ML Engineer with Microsoft Azure Nanodegree Capstone Project!
 
 ## Parkinson disease detection using Azure ML.  
 
